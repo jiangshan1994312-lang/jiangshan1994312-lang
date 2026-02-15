@@ -1,16 +1,27 @@
-## Hi there 👋
+Hello 👋 this is Jiang Shan.
 
-<!--
-**jiangshan1994312-lang/jiangshan1994312-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🚀 About Me
+Full-stack developer passionate about building web applications.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Next.js + Laravel
+- 💻 Working on: Personal projects
+- 🎯 Goal: Become professional software engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- HTML
+- CSS / Tailwind
+- JavaScript
+- React
+- Next.js
+- Laravel
+- MySQL
+- PostgreSQL
+- Figma
+
+---
+
+## 📫 Contact
+Email: jiang.shan1994312@gmail.com
+Portfolio: https://portfolio-eight-alpha-dt3xiwg9um.vercel.app
