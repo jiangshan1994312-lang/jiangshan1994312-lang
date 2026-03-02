@@ -91,3 +91,15 @@ Feel free to reach out!
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
+
+<!-- Snake Game Animation -->
+  <div>
+    <picture>
+      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stardev2015/stardev2015/output/github-snake-dark.svg">
+      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stardev2015/stardev2015/output/github-snake.svg">
+      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg" alt="GitHub Snake">
+    </picture>
+  </div>
+
+  
+> _Passionate about building scalable full-stack solutions, cloud-native applications, and AI-powered products. Let's create something amazing together!_
