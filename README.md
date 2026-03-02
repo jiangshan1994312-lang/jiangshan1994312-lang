@@ -1,7 +1,17 @@
-# 👋 Hi, I'm a Full Stack Developer
+<!-- ===================== -->
+<!--  GitHub Profile README -->
+<!-- ===================== -->
 
-I’m a passionate **Full Stack Developer** who enjoys building modern, scalable, and user-friendly web applications.  
-From crafting beautiful UIs to designing robust backends, I love turning ideas into reality 🚀
+<h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
+
+<p align="center">
+  <b>Building modern, scalable, and beautiful web applications</b><br/>
+  Frontend • Backend • Databases • UI/UX
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Frontend+%26+Backend+Specialist;Clean+Code+%7C+Modern+UI+%7C+Scalable+Systems" />
+</p>
 
 ---
 
@@ -9,55 +19,75 @@ From crafting beautiful UIs to designing robust backends, I love turning ideas i
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular" />
 </p>
 
 ---
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,python,django,java" />
 </p>
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases & BaaS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase" />
 </p>
 
 ---
 
 ### 🎨 UI / UX & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+---
+
+### 🛠️ Tools & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
 ## ✨ What I Do
-- 🔹 Build responsive and accessible web applications  
-- 🔹 Develop full-stack systems with clean architecture  
-- 🔹 Design modern UI/UX with attention to detail  
-- 🔹 Optimize performance and scalability  
+- 🚀 Build **responsive, high-performance web applications**
+- 🧩 Design **clean architectures** from frontend to backend
+- 🎨 Craft **modern UI/UX** with design systems
+- 🔐 Integrate **APIs, authentication, and databases**
+- ⚡ Optimize **performance, SEO, and scalability**
 
 ---
 
-## 📈 Mindset
-- Clean code over clever code  
+## 🧩 Development Philosophy
+- Clean code > clever code  
+- Scalability from day one  
 - Performance matters  
-- User experience comes first  
+- UX is not optional  
 - Always learning, always improving  
 
 ---
 
-## 🤝 Let’s Connect
-If you’re interested in collaboration, open-source projects, or just tech talk — feel free to reach out!
+## 📊 GitHub Stats (Optional)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" height="150"/>
+</p>
 
-⭐ *Thanks for visiting my profile!*
+---
+
+## 🤝 Let’s Connect
+If you’re interested in:
+- Collaboration 🤝  
+- Open-source contributions 🌍  
+- Building impactful products 💡  
+
+Feel free to reach out!
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
